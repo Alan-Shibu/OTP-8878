@@ -26,6 +26,8 @@
  * @version 1.1   12-June-2025 : The code was refined and converted into
  *                               a modular structure 
  * 
+ * 
+ * 
  *************************************************************************************/ 
 define(["N/email", "N/file", "N/record", "N/search"], 
  /**
