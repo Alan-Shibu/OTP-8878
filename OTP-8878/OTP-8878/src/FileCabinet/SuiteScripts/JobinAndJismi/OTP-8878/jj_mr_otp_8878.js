@@ -34,7 +34,6 @@ define(["N/email", "N/file", "N/record", "N/search"],
  * @param{email} email
  * @param{file} file
  * @param{record} record
- * @param{runtime} runtime
  * @param{search} search
  */ (email, file, record, search) => {
   /**
